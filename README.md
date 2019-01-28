@@ -7,6 +7,6 @@ Release Notes v 0.1
 
 2. Ptyhon 3.5 was used, it was run under Visual Studio 2015 - Python tools component was installed
 
-3. Need to install Firefox driver for Selenium
+3. Need to install Firefox driver for Selenium: Geckodriver.exe - I used version 0.24.0-win64
 
 4. Initially code was tried for IE browser but page for http://opensource-demo.orangehrmlive.com/ was being rendered with issues when saving the new employee -- user name and password were also required.
