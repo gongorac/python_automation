@@ -1,4 +1,4 @@
-# truex_automation
+# tex_automation
 Initial project
 
 Release Notes v 0.1
