@@ -5,7 +5,7 @@ Release Notes v 0.1
 
 1. Language used: Python with Selenium- Attached is Python code for the automation of the test case
 
-2. Ptyhon 3.5 was used, it was run under Visual Studio 2015 - Python tools component was installed
+2. Pyhon 3.5 was used, it was run under Visual Studio 2015 - Python tools component was installed
 
 3. Need to install Firefox driver for Selenium: Geckodriver.exe - I used version 0.24.0-win64
 
